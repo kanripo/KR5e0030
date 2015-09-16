@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:07:03.885707
-#+TITLE: 道門經法相承次序
-#+PROPERTY: DZID  DZ1128
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—782 三卷 太平部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
